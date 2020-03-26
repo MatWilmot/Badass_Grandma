@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    height: 70vh;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+footer {
+    height: 10vh;
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+h1, h2 {
+    font-family: fantasy;
+}
+
+p, li {
+    font-family: fantasy;
+    font-size: large;
+}
+
+.navBar {
+    height: 30px;
+    vertical-align: middle;
+}
